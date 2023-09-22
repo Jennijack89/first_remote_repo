@@ -1,4 +1,6 @@
-def myFunc:
-    print 'Hello'
+def myFunc():
+    print ('Hello')
 
-myFunc
+print("Git Hub's great!")
+
+        
